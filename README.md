@@ -1,1 +1,3 @@
-# Mercedes-Benz-Greener-Manufacturing-Project
+Mercedes-Benz-Greener-Manufacturing-Project
+
+The objective of this project is to reduce the time that Mercedes-Benz cars spend on the test bench. The dataset mainly describes various factors responsible for the time taken by Mercedes-Benz cars to pass the testing. Optimizing the algorithm will be our primary focus since it is directly proportional to faster testing. The columns with zero variance have been removed from the dataset. Dimensionality reduction is performed using principal component analysis technique to reduce the excess computational time and to reduce redundant features if any. Hyperparameter tuning is performed with the help of GridSearchCV for the XGBoost algorithm parameters and the test values are predicted using the same.
