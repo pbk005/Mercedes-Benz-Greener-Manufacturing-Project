@@ -1,4 +1,4 @@
-Mercedes-Benz-Greener-Manufacturing
+                                                           Mercedes-Benz-Greener-Manufacturing
 
 Mercedes-Benz has always stood for important automotive innovations like passenger safety cell with a crumple zone, the airbag, and intelligent assistance systems. To ensure the safety and reliability of every unique car configuration before they hit the road, the company’s engineers have developed a robust testing system. As one of the world’s biggest manufacturers of premium cars, safety and efficiency are paramount on Mercedes-Benz’s production lines. However, optimizing the speed of their testing system for many possible feature combinations is complex and time-consuming without a powerful algorithmic approach.
 
